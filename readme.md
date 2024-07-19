@@ -13,7 +13,7 @@ This project is a simple and efficient QR code generator built using Node.js and
 
 1. Clone the repository:
    ```bash
-   git clone [copy repo]
+   git clone https://github.com/dileep2602/QR-Code-Generator.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -50,5 +50,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to customize this description to better fit your project!
