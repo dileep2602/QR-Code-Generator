@@ -1,6 +1,3 @@
-Sure! Here's a description for your GitHub repository:
-
----
 
 # QR Code Generator
 
@@ -16,7 +13,7 @@ This project is a simple and efficient QR code generator built using Node.js and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone [copy repo]
    ```
 2. Navigate to the project directory:
    ```bash
@@ -31,20 +28,11 @@ This project is a simple and efficient QR code generator built using Node.js and
 
 ### Command Line Interface
 
-1. Run the application:
-   ```bash
-   node cli.js
-   ```
-2. Follow the prompts provided by Inquirer to input the data you want to encode into a QR code.
-
-### Web Interface
-
 1. Start the Express.js server:
    ```bash
-   node server.js
+   node index.js
    ```
-2. Open your web browser and go to `http://localhost:3000`.
-3. Enter the data you want to encode and generate the QR code.
+2. Enter the data you want to encode and generate the QR code.
 
 ## Dependencies
 
